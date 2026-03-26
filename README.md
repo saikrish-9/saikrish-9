@@ -113,9 +113,9 @@ public class SaiKrishna extends Developer {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikrish-9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BCD4&text_color=FFFFFF" width="40%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=saikrish-9&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BCD4&ring=00F7F7&fire=FF6B6B&currStreakLabel=00BCD4" width="50%" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saikrish-9&custom_title=Contribution+Graph&hide_border=true&bg_color=0D1117&color=00BCD4&line=7B42F6&point=FFFFFF&area=true&area_color=00BCD4" width="70%" />
