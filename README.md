@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:00BCD4&height=200&section=header&text=SaiKrishna&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:F97316&height=200&section=header&text=SaiKrishna&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </p>
 
 <!-- Typing SVG -->
@@ -10,14 +10,17 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/sai-krishna" target="_blank">
+  <a href="https://www.linkedin.com/in/tirukkovalluri-sai-krishna-2ba66022a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
   </a>
-  <a href="mailto:saikrishna@gmail.com">
+  <a href="mailto:tsaikrishna2930@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
   </a>
   <a href="https://github.com/saikrish-9">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+  </a>
+   <a href="https://leetcode.com/u/saikrishna2003" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" />
   </a>
 </p>
 
@@ -29,7 +32,7 @@
 
 <table>
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="50%">
 
 ```java
 public class SaiKrishna extends Developer {
@@ -37,7 +40,7 @@ public class SaiKrishna extends Developer {
     String name       = "SaiKrishna";
     String role       = "SDE 1 @ UKG";
     String location   = "India 🇮🇳";
-    String[] stack    = {"Java", "Spring Boot", "MERN", "Python", "AWS"};
+    String[] stack    = {"Java", "Spring Boot", "MERN", "Python", "C++", "Devops", "Docker", "SQL"};
     String[] interests= {"Microservices", "AI/ML", "Backend Systems", "LLMs"};
     String motto      = "Code. Build. Iterate. Repeat. 🚀";
 
@@ -54,7 +57,7 @@ public class SaiKrishna extends Developer {
 ```
 
 </td>
-<td valign="center" width="40%">
+<td valign="center" width="50%">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" />
 </td>
 </tr>
