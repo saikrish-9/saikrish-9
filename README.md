@@ -67,7 +67,7 @@ public class SaiKrishna extends Developer {
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <p align="center">
 
