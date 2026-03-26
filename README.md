@@ -78,7 +78,7 @@ public class SaiKrishna extends Developer {
 ![Spring Cloud](https://img.shields.io/badge/React-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/AI ML-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/AI-ML-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 **🌐 Frontend**
 
