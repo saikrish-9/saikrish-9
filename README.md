@@ -110,7 +110,7 @@ public class SaiKrishna extends Developer {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saikrish-9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BCD4&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikrish-9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BCD4&text_color=FFFFFF" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikrish-9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BCD4&text_color=FFFFFF" width="40%" />
 </p>
 
 <p align="center">
