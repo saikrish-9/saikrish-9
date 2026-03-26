@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:00BCD4&height=200&section=header&text=SaiKrishna&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:F97316&height=200&section=header&text=SaiKrishna&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </p>
 
 <!-- Typing SVG -->
