@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:F97316&height=200&section=header&text=SaiKrishna&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:00BCD4&height=200&section=header&text=SaiKrishna&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </p>
 
 <!-- Typing SVG -->
@@ -27,13 +27,17 @@
 
 ### 👨‍💻 About Me
 
+<table>
+<tr>
+<td valign="top" width="60%">
+
 ```java
 public class SaiKrishna extends Developer {
 
     String name       = "SaiKrishna";
     String role       = "SDE 1 @ UKG";
     String location   = "India 🇮🇳";
-    String[] stack    = {"C++", Java", "Spring Boot", "MERN", "Python", CI CD, Docker};
+    String[] stack    = {"Java", "Spring Boot", "MERN", "Python", "AWS"};
     String[] interests= {"Microservices", "AI/ML", "Backend Systems", "LLMs"};
     String motto      = "Code. Build. Iterate. Repeat. 🚀";
 
