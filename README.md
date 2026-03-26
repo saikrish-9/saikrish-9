@@ -130,4 +130,4 @@ public class SaiKrishna extends Developer {
   <img alt="github-snake" src="https://raw.githubusercontent.com/saikrish-9/saikrish-9/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BCD4,100:0D47A1&height=100&section=footer" width="100%">
+<img src="https://raw.githubusercontent.com/saikrish-9/saikrish-9/output/github-contribution-grid-snake.svg" alt="github-snake" />
