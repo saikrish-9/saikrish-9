@@ -123,7 +123,6 @@ public class SaiKrishna extends Developer {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saikrish-9/saikrish-9/output/github-contribution-grid-snake-dark.svg" />
