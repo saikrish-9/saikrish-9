@@ -109,21 +109,19 @@ public class SaiKrishna extends Developer {
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saikrish-9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BCD4&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikrish-9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BCD4&text_color=FFFFFF" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saikrish-9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BCD4&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikrish-9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BCD4&text_color=FFFFFF" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=saikrish-9&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BCD4&ring=00F7F7&fire=FF6B6B&currStreakLabel=00BCD4" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=saikrish-9&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BCD4&ring=00F7F7&fire=FF6B6B&currStreakLabel=00BCD4" width="70%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saikrish-9&custom_title=Contribution+Graph&hide_border=true&bg_color=0D1117&color=00BCD4&line=7B42F6&point=FFFFFF&area=true&area_color=00BCD4" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saikrish-9&custom_title=Contribution+Graph&hide_border=true&bg_color=0D1117&color=00BCD4&line=7B42F6&point=FFFFFF&area=true&area_color=00BCD4" width="95%" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
 
 ## 🐍 Contribution Snake
 
