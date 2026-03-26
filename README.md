@@ -125,9 +125,9 @@ public class SaiKrishna extends Developer {
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saikrish-9/saikrish-9/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saikrish-9/saikrish-9/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/saikrish-9/saikrish-9/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saikrish-9/saikrish-9/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saikrish-9/saikrish-9/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/saikrish-9/saikrish-9/output/github-snake.svg" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/saikrish-9/saikrish-9/output/github-contribution-grid-snake.svg" alt="github-snake" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/saikrish-9/saikrish-9/output/github-snake.svg?v=2" />
